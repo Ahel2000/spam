@@ -1,1 +1,1 @@
-# spam
+# This is one of the earliest projects I made while learning data science. It is a simple classification model that distinguishes between a spam and a ham mail. I achieved an accuracy of about 99.4%, which I believe is not too bad.
